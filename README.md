@@ -2,9 +2,9 @@
 
 ## What are Autoencoders?
 
-<img src="https://lilianweng.github.io/posts/2018-08-12-vae/autoencoder-architecture.png" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Autoencoder_structure.png" width="600">
 
-[Image Source](https://lilianweng.github.io/posts/2018-08-12-vae/)
+[Image Source](https://en.wikipedia.org/wiki/Autoencoder)
 
 **Autoencoders** are an **unsupervised learning technique** in which we leverage neural networks for the task of representation learning. We pass the input through a neural network which compresses it into a low dimensional latent code, by passing through **bottle neck** and then we reconstruct an output using the compressed latent code by another neural network.
 
