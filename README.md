@@ -2,7 +2,7 @@
 
 ## What are Autoencoders?
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Autoencoder_structure.png" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Autoencoder_structure.png" width="400">
 
 [Image Source](https://en.wikipedia.org/wiki/Autoencoder)
 
