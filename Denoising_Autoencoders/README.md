@@ -21,6 +21,8 @@ Naturally the corruption process can be equipped with prior knowledge.
 For high dimensional input with high redundancy, like images, the model is likely to depend on evidence gathered from a combination of many input dimensions to recover the denoised version rather than to overfit one dimension. 
 This builds up a good foundation for learning robust latent representation.
 
+---
+
 ## Output
 
 ### Using Linear Neural Network
