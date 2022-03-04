@@ -32,11 +32,15 @@ There are two main ways by which we can impose this sparsity constraint; both in
 
 ### Using Linear Neural Network
 
-<img src="https://i.imgur.com/XG9RMKz.png" height="200" title="Using KL Divergence Loss"> <img src="https://i.imgur.com/WCxxJYB.png" height="200" title="Using L1 regularization loss">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Using KL Divergence Loss** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Using L1 Regularization Loss**
+
+<img src="https://i.imgur.com/XG9RMKz.png" height="200" title="Using KL Divergence Loss">&emsp;</t> <img src="https://i.imgur.com/WCxxJYB.png" height="200" title="Using L1 regularization loss">
 
 ### Using Convolutional Neural Network
 
-<img src="https://i.imgur.com/0MdPDHp.png" height="200" title="Using KL Divergence Loss"> <img src="https://i.imgur.com/q165SU9.png" height="200" title="Using L1 regularization Loss">
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Using KL Divergence Loss** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Using L1 Regularization Loss**
+
+<img src="https://i.imgur.com/0MdPDHp.png" height="200" title="Using KL Divergence Loss">&emsp;<img src="https://i.imgur.com/q165SU9.png" height="200" title="Using L1 regularization Loss">
 
 ## Tools used:
 
